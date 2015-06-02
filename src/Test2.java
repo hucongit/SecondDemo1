@@ -3,6 +3,6 @@
  */
 public class Test2 {
 
-    private static void main(String[] args){ system.out.println("ssdsdfaf");ss}
+    public static void main(String[] args){ System.out.println("ssdsdfaf");}
 
 }
